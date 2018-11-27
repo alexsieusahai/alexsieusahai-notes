@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-theme-learn"
+author = "Alex Sieusahai"
+description = "Alex Sieusahai's notes and current projects."
+themeVariant = "blue"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
