@@ -2,6 +2,11 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+# Update the repo holding the actual notes.
+git add *
+git commit -m "updated blog"
+git push origin master
+
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 

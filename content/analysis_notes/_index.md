@@ -6,6 +6,6 @@ chapter = true
 pre = "<b>1. </b>"
 +++
 
-# Notes on Analysis
+# Proofs involving Analysis
 
-A series of basic results in a first year undergraduate analysis course, along with some exercises I thought were good. Very close in structure and presentation with Understanding Analysis by Abbott, and Introduction to Real Analysis by Lebl. I highly recommend doing the exercises in both books, as that's where a lot of the real learning happens.
+A collection of proofs I've either discovered or found very insightful.
